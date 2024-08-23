@@ -37,6 +37,6 @@ Redacción de principales resultados.
 
 ## Habilidades
 - **Análisis de datos**: R, STATA, SPSS
-- **Visualización**: Power BI, Looker Studio
+- **Visualización**: Power BI, Looker Studio, Tableau, Kepler
 - **Idiomas**: Inglés (B2 Cambridge ESOL)
 - **Investigación y Redacción de informes**
