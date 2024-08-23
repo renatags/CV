@@ -1,6 +1,8 @@
 # CV
 Curriculum Vitae
 # Renata González
+Socióloga, 26 años
+**Pontificia Universidad Católica de Chile**
 
 **Datos de Contacto:**
 - Teléfono: +56954036696
