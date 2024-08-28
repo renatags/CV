@@ -36,7 +36,7 @@ Redacción de principales resultados.
 - **Diplomado en Big Data y Ciencia de Datos** | Pontificia Universidad Católica de Chile
 
 ## Habilidades
-- **Análisis de datos**: R, STATA, SPSS
+- **Análisis de datos**: R, STATA, SPSS, Atlas.ti, Nvivo.
 - **Visualización**: Power BI, Looker Studio, Tableau, Kepler
 - **Idiomas**: Inglés (B2 Cambridge ESOL)
 - **Investigación y Redacción de informes**
